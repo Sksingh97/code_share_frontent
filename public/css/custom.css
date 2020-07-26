@@ -1,0 +1,21 @@
+.bg-darkBlue {
+  background-color: #123659 !important;
+}
+
+.leftBase {
+  width: 18rem;
+}
+
+.filterData {
+  width: 12rem;
+}
+
+.searchList .questionHeader{
+  margin-right: auto;
+}
+
+.filterData .list-group button{
+  border: 0px !important;
+  font-size: 14px;
+  padding-left: 25px;
+}
